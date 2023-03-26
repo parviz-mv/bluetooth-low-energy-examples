@@ -1,6 +1,6 @@
 # bluetooth-low-energy-examples
 
- **Web-Bluetooth Low Energy(BLE)** examples in HTML, React and Node JS, 
+ **Web-Bluetooth Low Energy(BLE)** examples in HTML, React and Node JS
 
 - [NodeJs-example](#nodejs-example)
 - [React-example](#react-example)
